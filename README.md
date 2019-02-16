@@ -4,7 +4,7 @@ This module deploys [matchbox](https://coreos.com/matchbox/docs/latest/matchbox.
 
 ## Overview
 
-![overview.png](https://raw.githubusercontent.com/sacloud/terraform-sakuracloud-matchbox/master/images/overview.png)
+![overview.png](https://github.com/sacloud/terraform-sakuracloud-matchbox/raw/master/overview.png)
 
 #### Included resource
 
